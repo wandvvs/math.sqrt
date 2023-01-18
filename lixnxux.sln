@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lixnxux", "lixnxux\lixnxux.csproj", "{F61A2A30-D1BB-4395-8B89-513358B565B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F61A2A30-D1BB-4395-8B89-513358B565B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61A2A30-D1BB-4395-8B89-513358B565B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61A2A30-D1BB-4395-8B89-513358B565B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61A2A30-D1BB-4395-8B89-513358B565B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D0E0C9-8146-488D-9CB4-CB5D353A1982}
+	EndGlobalSection
+EndGlobal
